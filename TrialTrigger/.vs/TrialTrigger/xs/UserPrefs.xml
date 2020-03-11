@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9B758FAE-85E3-449D-A887-F36A66F16433}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrialTrigger/Program.cs">
+    <Files>
+      <File FileName="TrialTrigger/Program.cs" Line="202" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrialTrigger" expanded="True">
+            <Node name="TrialTrigger" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrialTrigger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

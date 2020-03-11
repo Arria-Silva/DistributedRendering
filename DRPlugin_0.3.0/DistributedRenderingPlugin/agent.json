@@ -1,0 +1,6 @@
+{
+  "conductorServerHost": "127.0.0.1",
+  "conductorServerPort": 8666,
+  "agentGroupName": "*",
+  "maxAgentCountPerServer": 1
+}

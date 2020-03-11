@@ -1,0 +1,280 @@
+2020/01/09 13:51:12.264497 main.go:63: lastCommitHash: 
+2020/01/09 13:51:12.265496 main.go:648: Version: 1.0.0
+2020/01/09 13:51:12.265496 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:51:12.266493 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 13:51:12.515731 main.go:63: lastCommitHash: 
+2020/01/09 13:51:12.515731 main.go:648: Version: 1.0.0
+2020/01/09 13:51:12.515731 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:51:12.516728 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 13:54:12.859043 main.go:63: lastCommitHash: 
+2020/01/09 13:54:12.861038 main.go:648: Version: 1.0.0
+2020/01/09 13:54:12.861038 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:54:12.862036 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 13:54:13.212100 main.go:63: lastCommitHash: 
+2020/01/09 13:54:13.213097 main.go:648: Version: 1.0.0
+2020/01/09 13:54:13.213097 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:54:13.213097 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 13:55:28.077520 main.go:63: lastCommitHash: 
+2020/01/09 13:55:28.081503 main.go:648: Version: 1.0.0
+2020/01/09 13:55:28.081503 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:55:28.082501 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 13:55:28.392739 main.go:63: lastCommitHash: 
+2020/01/09 13:55:28.393736 main.go:648: Version: 1.0.0
+2020/01/09 13:55:28.393736 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 13:55:28.393736 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 14:15:14.939889 main.go:63: lastCommitHash: 
+2020/01/09 14:15:14.940886 main.go:648: Version: 1.0.0
+2020/01/09 14:15:14.940886 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:15:14.940886 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 14:15:15.082507 main.go:63: lastCommitHash: 
+2020/01/09 14:15:15.083505 main.go:648: Version: 1.0.0
+2020/01/09 14:15:15.083505 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:15:15.084503 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 14:42:45.981417 main.go:63: lastCommitHash: 
+2020/01/09 14:42:45.984247 main.go:648: Version: 1.0.0
+2020/01/09 14:42:45.984743 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:42:45.984743 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 14:42:46.113206 main.go:63: lastCommitHash: 
+2020/01/09 14:42:46.114198 main.go:648: Version: 1.0.0
+2020/01/09 14:42:46.114198 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:42:46.114696 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 14:43:05.450755 main.go:63: lastCommitHash: 
+2020/01/09 14:43:05.454227 main.go:648: Version: 1.0.0
+2020/01/09 14:43:05.454726 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:43:05.455220 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 14:43:05.651138 main.go:63: lastCommitHash: 
+2020/01/09 14:43:05.651633 main.go:648: Version: 1.0.0
+2020/01/09 14:43:05.652130 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:43:05.652130 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 14:45:14.373527 main.go:63: lastCommitHash: 
+2020/01/09 14:45:14.376007 main.go:648: Version: 1.0.0
+2020/01/09 14:45:14.376007 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:45:14.376501 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 5 -port 11001], input-path: , output-path: 
+2020/01/09 14:45:14.736097 main.go:63: lastCommitHash: 
+2020/01/09 14:45:14.737089 main.go:648: Version: 1.0.0
+2020/01/09 14:45:14.737089 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:45:14.737089 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 14:45:31.112526 main.go:63: lastCommitHash: 
+2020/01/09 14:45:31.115011 main.go:648: Version: 1.0.0
+2020/01/09 14:45:31.115011 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:45:31.115502 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0:1 -test 0 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 14:45:31.480558 main.go:63: lastCommitHash: 
+2020/01/09 14:45:31.481548 main.go:648: Version: 1.0.0
+2020/01/09 14:45:31.481548 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 14:45:31.481548 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 15:56:40.205141 main.go:63: lastCommitHash: 
+2020/01/09 15:56:40.206138 main.go:648: Version: 1.0.0
+2020/01/09 15:56:40.206138 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 15:56:40.206138 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 15:56:40.459973 main.go:63: lastCommitHash: 
+2020/01/09 15:56:40.460969 main.go:648: Version: 1.0.0
+2020/01/09 15:56:40.460969 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 15:56:40.460969 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 15:56:40.491888 main.go:63: lastCommitHash: 
+2020/01/09 15:56:40.492885 main.go:648: Version: 1.0.0
+2020/01/09 15:56:40.492885 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 15:56:40.492885 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 15:59:42.022000 main.go:63: lastCommitHash: 
+2020/01/09 15:59:42.023992 main.go:648: Version: 1.0.0
+2020/01/09 15:59:42.024991 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 15:59:42.024991 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 15:59:42.227426 main.go:63: lastCommitHash: 
+2020/01/09 15:59:42.228423 main.go:648: Version: 1.0.0
+2020/01/09 15:59:42.228423 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 15:59:42.228423 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:00:04.651271 main.go:63: lastCommitHash: 
+2020/01/09 16:00:04.654263 main.go:648: Version: 1.0.0
+2020/01/09 16:00:04.655257 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:00:04.655257 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:00:04.957367 main.go:63: lastCommitHash: 
+2020/01/09 16:00:04.958365 main.go:648: Version: 1.0.0
+2020/01/09 16:00:04.958365 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:00:04.958365 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:01:19.220989 main.go:63: lastCommitHash: 
+2020/01/09 16:01:19.222982 main.go:648: Version: 1.0.0
+2020/01/09 16:01:19.222982 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:01:19.222982 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:01:19.394540 main.go:63: lastCommitHash: 
+2020/01/09 16:01:19.395538 main.go:648: Version: 1.0.0
+2020/01/09 16:01:19.395538 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:01:19.396535 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:01:38.755703 main.go:63: lastCommitHash: 
+2020/01/09 16:01:38.758696 main.go:648: Version: 1.0.0
+2020/01/09 16:01:38.758696 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:01:38.759690 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:01:38.915262 main.go:63: lastCommitHash: 
+2020/01/09 16:01:38.916259 main.go:648: Version: 1.0.0
+2020/01/09 16:01:38.916259 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:01:38.916259 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:07:15.384632 main.go:63: lastCommitHash: 
+2020/01/09 16:07:15.387624 main.go:648: Version: 1.0.0
+2020/01/09 16:07:15.387624 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:07:15.388618 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:07:15.724716 main.go:63: lastCommitHash: 
+2020/01/09 16:07:15.725713 main.go:648: Version: 1.0.0
+2020/01/09 16:07:15.725713 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:07:15.725713 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:07:35.055943 main.go:63: lastCommitHash: 
+2020/01/09 16:07:35.057933 main.go:648: Version: 1.0.0
+2020/01/09 16:07:35.058930 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:07:35.058930 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:07:35.361626 main.go:63: lastCommitHash: 
+2020/01/09 16:07:35.362623 main.go:648: Version: 1.0.0
+2020/01/09 16:07:35.362623 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:07:35.362623 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:08:24.689600 main.go:63: lastCommitHash: 
+2020/01/09 16:08:24.692593 main.go:648: Version: 1.0.0
+2020/01/09 16:08:24.693590 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:08:24.694588 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:08:24.904008 main.go:63: lastCommitHash: 
+2020/01/09 16:08:24.905005 main.go:648: Version: 1.0.0
+2020/01/09 16:08:24.905005 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:08:24.905005 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:08:47.164266 main.go:63: lastCommitHash: 
+2020/01/09 16:08:47.166259 main.go:648: Version: 1.0.0
+2020/01/09 16:08:47.166259 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:08:47.166259 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:08:47.348998 main.go:63: lastCommitHash: 
+2020/01/09 16:08:47.349996 main.go:648: Version: 1.0.0
+2020/01/09 16:08:47.349996 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:08:47.349996 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:10:50.218210 main.go:63: lastCommitHash: 
+2020/01/09 16:10:50.221201 main.go:648: Version: 1.0.0
+2020/01/09 16:10:50.222199 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:10:50.222199 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:10:50.564276 main.go:63: lastCommitHash: 
+2020/01/09 16:10:50.564276 main.go:648: Version: 1.0.0
+2020/01/09 16:10:50.565273 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:10:50.565273 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:11:12.923555 main.go:63: lastCommitHash: 
+2020/01/09 16:11:12.925549 main.go:648: Version: 1.0.0
+2020/01/09 16:11:12.926551 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:11:12.926551 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:11:13.263644 main.go:63: lastCommitHash: 
+2020/01/09 16:11:13.264642 main.go:648: Version: 1.0.0
+2020/01/09 16:11:13.264642 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:11:13.264642 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:12:17.487599 main.go:63: lastCommitHash: 
+2020/01/09 16:12:17.490592 main.go:648: Version: 1.0.0
+2020/01/09 16:12:17.491602 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:12:17.491602 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:12:17.691894 main.go:63: lastCommitHash: 
+2020/01/09 16:12:17.692891 main.go:648: Version: 1.0.0
+2020/01/09 16:12:17.692891 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:12:17.692891 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:12:36.992019 main.go:63: lastCommitHash: 
+2020/01/09 16:12:36.995994 main.go:648: Version: 1.0.0
+2020/01/09 16:12:36.995994 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:12:36.996991 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:12:37.151852 main.go:63: lastCommitHash: 
+2020/01/09 16:12:37.151852 main.go:648: Version: 1.0.0
+2020/01/09 16:12:37.152848 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:12:37.152848 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:14:32.646192 main.go:63: lastCommitHash: 
+2020/01/09 16:14:32.647189 main.go:648: Version: 1.0.0
+2020/01/09 16:14:32.647189 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:14:32.648185 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:14:32.830080 main.go:63: lastCommitHash: 
+2020/01/09 16:14:32.830080 main.go:648: Version: 1.0.0
+2020/01/09 16:14:32.831077 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:14:32.831077 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:14:49.192909 main.go:63: lastCommitHash: 
+2020/01/09 16:14:49.194903 main.go:648: Version: 1.0.0
+2020/01/09 16:14:49.194903 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:14:49.195905 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:14:49.379592 main.go:63: lastCommitHash: 
+2020/01/09 16:14:49.380590 main.go:648: Version: 1.0.0
+2020/01/09 16:14:49.380590 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:14:49.380590 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:15:50.870224 main.go:63: lastCommitHash: 
+2020/01/09 16:15:50.872219 main.go:648: Version: 1.0.0
+2020/01/09 16:15:50.873220 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:15:50.873220 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:15:51.036802 main.go:63: lastCommitHash: 
+2020/01/09 16:15:51.036802 main.go:648: Version: 1.0.0
+2020/01/09 16:15:51.037800 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:15:51.037800 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:15:51.060177 main.go:63: lastCommitHash: 
+2020/01/09 16:15:51.061174 main.go:648: Version: 1.0.0
+2020/01/09 16:15:51.061174 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:15:51.062171 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:34:09.078080 main.go:63: lastCommitHash: 
+2020/01/09 16:34:09.081072 main.go:648: Version: 1.0.0
+2020/01/09 16:34:09.081072 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:34:09.081072 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:34:09.223690 main.go:63: lastCommitHash: 
+2020/01/09 16:34:09.224688 main.go:648: Version: 1.0.0
+2020/01/09 16:34:09.224688 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:34:09.224688 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:34:09.248623 main.go:63: lastCommitHash: 
+2020/01/09 16:34:09.249620 main.go:648: Version: 1.0.0
+2020/01/09 16:34:09.249620 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:34:09.249620 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:34:31.663107 main.go:63: lastCommitHash: 
+2020/01/09 16:34:31.665102 main.go:648: Version: 1.0.0
+2020/01/09 16:34:31.665102 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:34:31.666099 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 1:0 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:34:31.832836 main.go:63: lastCommitHash: 
+2020/01/09 16:34:31.833833 main.go:648: Version: 1.0.0
+2020/01/09 16:34:31.833833 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:34:31.833833 main.go:731: [client] wait task, session: 1, group: 0
+2020/01/09 16:38:38.478930 main.go:63: lastCommitHash: 
+2020/01/09 16:38:38.480925 main.go:648: Version: 1.0.0
+2020/01/09 16:38:38.480925 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:38:38.481920 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:38:38.837155 main.go:63: lastCommitHash: 
+2020/01/09 16:38:38.838143 main.go:648: Version: 1.0.0
+2020/01/09 16:38:38.838143 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:38:38.839140 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:38:38.880808 main.go:63: lastCommitHash: 
+2020/01/09 16:38:38.881804 main.go:648: Version: 1.0.0
+2020/01/09 16:38:38.881804 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:38:38.881804 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 2 10.86.99.55:4767 *:* -enablelist 2 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:38:38.909730 main.go:63: lastCommitHash: 
+2020/01/09 16:38:38.910728 main.go:648: Version: 1.0.0
+2020/01/09 16:38:38.910728 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:38:38.910728 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:52:31.239844 main.go:63: lastCommitHash: 
+2020/01/09 16:52:31.242836 main.go:648: Version: 1.0.0
+2020/01/09 16:52:31.242836 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:52:31.243833 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:52:31.552626 main.go:63: lastCommitHash: 
+2020/01/09 16:52:31.553624 main.go:648: Version: 1.0.0
+2020/01/09 16:52:31.553624 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:52:31.553624 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:52:31.580552 main.go:63: lastCommitHash: 
+2020/01/09 16:52:31.581548 main.go:648: Version: 1.0.0
+2020/01/09 16:52:31.581548 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:52:31.581548 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 2 10.86.99.55:4767 *:* -enablelist 2 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:52:31.607480 main.go:63: lastCommitHash: 
+2020/01/09 16:52:31.608478 main.go:648: Version: 1.0.0
+2020/01/09 16:52:31.608478 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:52:31.608478 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:55:04.069240 main.go:63: lastCommitHash: 
+2020/01/09 16:55:04.071230 main.go:648: Version: 1.0.0
+2020/01/09 16:55:04.072228 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:04.072228 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 0 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:55:04.268260 main.go:63: lastCommitHash: 
+2020/01/09 16:55:04.269259 main.go:648: Version: 1.0.0
+2020/01/09 16:55:04.269259 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:04.269259 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 1 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:55:04.308002 main.go:63: lastCommitHash: 
+2020/01/09 16:55:04.309000 main.go:648: Version: 1.0.0
+2020/01/09 16:55:04.309000 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:04.309995 main.go:731: [client] submit task, group: 0, session: 0, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 2 10.86.99.55:4767 *:* -enablelist 2 -test 1 -time 10 -port 11001], input-path: , output-path: 
+2020/01/09 16:55:04.333993 main.go:63: lastCommitHash: 
+2020/01/09 16:55:04.333993 main.go:648: Version: 1.0.0
+2020/01/09 16:55:04.333993 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:04.334989 main.go:731: [client] wait task, session: 0, group: 0
+2020/01/09 16:55:26.648096 main.go:63: lastCommitHash: 
+2020/01/09 16:55:26.650093 main.go:648: Version: 1.0.0
+2020/01/09 16:55:26.650093 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:26.651091 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 0 10.86.99.55:4767 *:* -enablelist 1 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:55:26.843966 main.go:63: lastCommitHash: 
+2020/01/09 16:55:26.843966 main.go:648: Version: 1.0.0
+2020/01/09 16:55:26.844963 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:26.844963 main.go:731: [client] submit task, group: 0, session: 1, micro: false, size: 0, concurrency: 0, priority: 0, compression: tar, command: [cmd.exe /C start C:\Test\CRS\ClusterRenderingSample.exe -client 1 10.86.99.55:4767 *:* -enablelist 0:2 -test 0 -time 20 -port 11001], input-path: , output-path: 
+2020/01/09 16:55:26.876401 main.go:63: lastCommitHash: 
+2020/01/09 16:55:26.876401 main.go:648: Version: 1.0.0
+2020/01/09 16:55:26.876401 main.go:731: [client] &{ConductorServerHost:10.86.99.55 ConductorServerPort:8666 ShareFolderBase: FileCacheFolder:C:\Users\Arria\AppData\Local\Temp}
+2020/01/09 16:55:26.877399 main.go:731: [client] wait task, session: 1, group: 0

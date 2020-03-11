@@ -1,0 +1,13 @@
+{
+  "GroupName": "0",
+  "PlayerPath": "C:\\Test\\Test.exe",
+  "PlayerFolder": "C:\\Test\\",
+  "ClientQty": "3",
+  "TestTime": "10",
+  "RemainedClientQty": "2",
+  "EnableList": "",
+  "RenderingTime": "20",
+  "RenderingPort": "4767",
+  "UDBPort": "11001",
+  "ServerIP": "10.86.99.55"
+}

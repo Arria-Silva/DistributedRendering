@@ -1,0 +1,171 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "PlayerPatch/1.0.0": {
+        "dependencies": {
+          "UnityEditor": "0.0.0.0",
+          "UnityEngine": "0.0.0.0"
+        },
+        "runtime": {
+          "PlayerPatch.dll": {}
+        }
+      },
+      "UnityEditor/0.0.0.0": {
+        "runtime": {
+          "UnityEditor.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "UnityEngine/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Unity.Cecil/0.10.0.0": {
+        "runtime": {
+          "Unity.Cecil.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      },
+      "Unity.SerializationLogic/1.0.0.0": {
+        "runtime": {
+          "Unity.SerializationLogic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unity.DataContract/1.0.2.0": {
+        "runtime": {
+          "Unity.DataContract.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "ExCSS.Unity/2.0.6.0": {
+        "runtime": {
+          "ExCSS.Unity.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "Unity.Legacy.NRefactory/1.0.0.0": {
+        "runtime": {
+          "Unity.Legacy.NRefactory.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "3.2.1.6466"
+          }
+        }
+      },
+      "Unity.UNetWeaver/1.0.7059.41212": {
+        "runtime": {
+          "Unity.UNetWeaver.dll": {
+            "assemblyVersion": "1.0.7059.41212",
+            "fileVersion": "1.0.7059.41212"
+          }
+        }
+      },
+      "Unity.CecilTools/1.0.0.0": {
+        "runtime": {
+          "Unity.CecilTools.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unity.Cecil.Pdb/0.10.0.0": {
+        "runtime": {
+          "Unity.Cecil.Pdb.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      },
+      "Unity.Cecil.Mdb/0.10.0.0": {
+        "runtime": {
+          "Unity.Cecil.Mdb.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayerPatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEditor/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Cecil/0.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.SerializationLogic/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.DataContract/1.0.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExCSS.Unity/2.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Legacy.NRefactory/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.UNetWeaver/1.0.7059.41212": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.CecilTools/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Cecil.Pdb/0.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Cecil.Mdb/0.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
